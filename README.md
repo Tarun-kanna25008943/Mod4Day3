@@ -38,4 +38,4 @@ int main()
 
 
 ## RESULT:
-The program successfully finds and displays the length of the string "PEACOCK", which is 7 characters.
+The program successfully finds and displays the length of the string.
